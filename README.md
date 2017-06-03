@@ -8,6 +8,8 @@
 - Add your bot token to `test46.js`
 - Edit constants in the bot script to match your own server
 - Edit `configurables.txt` to match your own server
+- Create `xp.txt` with the contents
+    let xp = {}
 
 ## Run
     node test46.js
